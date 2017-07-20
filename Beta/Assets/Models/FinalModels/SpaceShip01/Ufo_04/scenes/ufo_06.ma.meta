@@ -1,0 +1,206 @@
+fileFormatVersion: 2
+guid: 6e70337c58739f349a23ebf6084f539c
+timeCreated: 1499329751
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: bottom
+    100002: camera
+    100004: group1
+    100006: Huk_Light:pCylinder1
+    100008: Huk_Light:polySurface1
+    100010: light
+    100012: light 1
+    100014: pCube1
+    100016: pCube10
+    100018: pCube11
+    100020: pCube12
+    100022: pCube13
+    100024: pCube14
+    100026: pCube15
+    100028: pCube16
+    100030: pCube17
+    100032: pCube18
+    100034: pCube19
+    100036: pCube2
+    100038: pCube3
+    100040: pCube4
+    100042: pCube5
+    100044: pCube6
+    100046: pCube7
+    100048: pCube8
+    100050: pCube9
+    100052: pCylinder8
+    100054: polySurface124
+    100056: polySurface125
+    100058: pSphere16
+    100060: pSphere7
+    100062: pTorus4
+    100064: sexy_girl_light:Fill_LGT
+    100066: sexy_girl_light:Girl3_final3:Light:Backl_LGT
+    100068: sexy_girl_light:Girl3_final3:Light:Fill_LGT
+    100070: sexy_girl_light:Girl3_final3:Light:Fill_LGT1
+    100072: sexy_girl_light:Girl3_final3:Light:Key_Light
+    100074: sexy_girl_light:Girl3_final3:Light:pointLight1
+    100076: sexy_girl_light:mentalrayIbl1
+    100078: transform1
+    100080: transform10
+    100082: transform11
+    100084: transform12
+    100086: transform13
+    100088: transform14
+    100090: transform15
+    100092: transform16
+    100094: transform17
+    100096: transform18
+    100098: transform19
+    100100: transform2
+    100102: transform3
+    100104: transform4
+    100106: transform5
+    100108: transform6
+    100110: transform7
+    100112: transform8
+    100114: transform9
+    100116: //RootNode
+    100118: up
+    400000: bottom
+    400002: camera
+    400004: group1
+    400006: Huk_Light:pCylinder1
+    400008: Huk_Light:polySurface1
+    400010: light
+    400012: light 1
+    400014: pCube1
+    400016: pCube10
+    400018: pCube11
+    400020: pCube12
+    400022: pCube13
+    400024: pCube14
+    400026: pCube15
+    400028: pCube16
+    400030: pCube17
+    400032: pCube18
+    400034: pCube19
+    400036: pCube2
+    400038: pCube3
+    400040: pCube4
+    400042: pCube5
+    400044: pCube6
+    400046: pCube7
+    400048: pCube8
+    400050: pCube9
+    400052: pCylinder8
+    400054: polySurface124
+    400056: polySurface125
+    400058: pSphere16
+    400060: pSphere7
+    400062: pTorus4
+    400064: sexy_girl_light:Fill_LGT
+    400066: sexy_girl_light:Girl3_final3:Light:Backl_LGT
+    400068: sexy_girl_light:Girl3_final3:Light:Fill_LGT
+    400070: sexy_girl_light:Girl3_final3:Light:Fill_LGT1
+    400072: sexy_girl_light:Girl3_final3:Light:Key_Light
+    400074: sexy_girl_light:Girl3_final3:Light:pointLight1
+    400076: sexy_girl_light:mentalrayIbl1
+    400078: transform1
+    400080: transform10
+    400082: transform11
+    400084: transform12
+    400086: transform13
+    400088: transform14
+    400090: transform15
+    400092: transform16
+    400094: transform17
+    400096: transform18
+    400098: transform19
+    400100: transform2
+    400102: transform3
+    400104: transform4
+    400106: transform5
+    400108: transform6
+    400110: transform7
+    400112: transform8
+    400114: transform9
+    400116: //RootNode
+    400118: up
+    2300000: pCylinder8
+    2300002: polySurface124
+    2300004: polySurface125
+    3300000: pCylinder8
+    3300002: polySurface124
+    3300004: polySurface125
+    4300000: pCylinder8
+    4300002: polySurface124
+    4300004: polySurface125
+    7400000: Take 001
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
