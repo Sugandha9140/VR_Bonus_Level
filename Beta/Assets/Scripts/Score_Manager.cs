@@ -24,7 +24,7 @@ public class Score_Manager : MonoBehaviour {
 	// Use this for initialization
 	void Start () {
 		scoreThreshold = 100;
-		scoreIncremental = 10;
+		scoreIncremental = 5;
 		currentScore = 0;
 		level = 1;
 	}
